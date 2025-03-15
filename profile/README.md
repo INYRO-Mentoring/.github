@@ -4,10 +4,6 @@
     <img src="https://img.shields.io/badge/📖%20AWS%20&%20Git%20STUDY-Click%20Here-blue?style=for-the-badge&logo=notion" alt="Self Study">
     </a>
 
-<a href="https://congruous-porpoise-103.notion.site/1b079bdfce5a80f28728e01da89353e8?pvs=4" target="_blank">
- <img src="https://img.shields.io/badge/📌%20What%20I%20Do-Click%20Here-blue?style=for-the-badge&logo=notion" alt="Self Study"> </a>
-<br><br>
-
 
 <hr>
 
