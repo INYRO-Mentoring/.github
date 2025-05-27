@@ -20,7 +20,7 @@
 |  **2025년 4월 28일**  |   🔹 프로젝트에서 Git의 사용법        ✅ |  
 |  **2025년 5월 12일**  |   🔹 보안 그룹과 Fire Wall & NAT Gateway  ✅|  
 |  **2025년 5월 19일**  |   🔹 ALB와 Auto Scaling         ✅    |  
-|  **2025년 5월 26일**  |   🔹 (미정) Git CI/CD & HTTPS        |  
+|  **2025년 5월 26일**  |   🔹 Git CI/CD & Elastic Search & Redis   ✅        |  
 
 <br>  
 
